@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base estoico -->
+    <style name="Theme.Stoic" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Colores primarios -->
+        <item name="colorPrimary">@color/deep_taupe</item>
+        <item name="colorPrimaryVariant">@color/stone_gray</item>
+        <item name="colorOnPrimary">@color/pure_white</item>
+
+        <!-- Colores secundarios -->
+        <item name="colorSecondary">@color/light_khaki</item>
+        <item name="colorSecondaryVariant">@color/soft_beige</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+
+        <!-- Colores de fondo -->
+        <item name="android:windowBackground">@color/pearl_white</item>
+        <item name="colorSurface">@color/ivory</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+
+        <!-- Colores de texto -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+        <!-- Barra de estado -->
+        <item name="android:statusBarColor">@color/stone_gray</item>
+
+        <!-- Estilos adicionales -->
+        <item name="materialCardViewStyle">@style/Widget.Stoic.CardView</item>
+    </style>
+
+    <!-- Estilo personalizado para CardView -->
+    <style name="Widget.Stoic.CardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/antique_white</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardCornerRadius">12dp</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta de colores estoica con tonos naturales y serenos -->
+    <color name="pure_white">#FFFFFF</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="antique_white">#FAEBD7</color>
+    <color name="pearl_white">#F5F5F1</color>
+    <color name="soft_beige">#F5F5DC</color>
+    <color name="warm_gray">#E5E4E2</color>
+    <color name="light_khaki">#E6E2D3</color>
+    <color name="pale_peach">#FFDAB9</color>
+    <color name="stone_gray">#928E85</color>
+    <color name="deep_taupe">#7B746B</color>
+    <color name="text_primary">#2C2825</color>
+    <color name="text_secondary">#4A4643</color>
+</resources>
