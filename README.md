@@ -11,7 +11,8 @@ StoicNow is a simple yet insightful Kotlin-based Android app designed to help us
 ## 🎥 Demonstration
 For a detailed walkthrough of StoicNow's features, watch the demonstration video below:
 
-[![Watch the Demo](https://img.youtube.com/vi/h_xxrsmPKwY/maxresdefault.jpg)](https://youtube.com/shorts/h_xxrsmPKwY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h_xxrsmPKwY" frameborder="0" allowfullscreen></iframe>
+
 
 ## 📲 Technologies Used
 - **Language:** Kotlin
